@@ -23,7 +23,7 @@
     "pretty": true,
     "declaration": true,
     "outDir": "build",
-    "baseUrl": ".",
+    "baseUrl": "..",
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "esModuleInterop": true
